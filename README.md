@@ -11,7 +11,7 @@ This project simulates a simplified **Airline Reservation System** using a relat
 | Column Name      | Data Type      | Constraints        |
 |------------------|----------------|--------------------|
 | PassengerID      | VARCHAR(20)    | Primary Key        |
-| FullName         | VARCHAR(100)   |                    |
+| FullName         | VARCHAR(50)   |                    |
 | PassportNumber   | VARCHAR(20)    | Unique             |
 | DOB              | DATE           |                    |
 
@@ -23,8 +23,8 @@ This project simulates a simplified **Airline Reservation System** using a relat
 |------------------|----------------|--------------------|
 | FlightID         | VARCHAR(20)    | Primary Key        |
 | FlightNumber     | VARCHAR(20)    | Unique             |
-| Origin           | VARCHAR(100)   |                    |
-| Destination      | VARCHAR(100)   |                    |
+| Origin           | VARCHAR(50)   |                    |
+| Destination      | VARCHAR(50)   |                    |
 | DurationMinutes  | INT            |                    |
 
 ---
@@ -34,9 +34,9 @@ This project simulates a simplified **Airline Reservation System** using a relat
 | Column Name      | Data Type      | Constraints        |
 |------------------|----------------|--------------------|
 | AircraftID       | VARCHAR(20)    | Primary Key        |
-| Model            | VARCHAR(100)   |                    |
+| Model            | VARCHAR(50)   |                    |
 | Capacity         | INT            |                    |
-| Manufacturer     | VARCHAR(100)   |                    |
+| Manufacturer     | VARCHAR(50)   |                    |
 
 ---
 
