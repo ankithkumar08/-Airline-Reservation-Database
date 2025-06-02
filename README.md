@@ -1,108 +1,88 @@
-# -Airline-Reservation-Database
-3. Airline Reservation Database
-Passengers
+# ✈️ Airline Reservation Database
 
+This project simulates a simplified **Airline Reservation System** using a relational database design. It consists of core entities such as **Passengers**, **Flights**, **Aircrafts**, **Flight Schedules**, **Reservations**, and **Payments**.
 
-PassengerID (VARCHAR(20), Primary Key)
+---
 
+## 📦 Table Structure
 
-FullName (VARCHAR(100))
+### 1. **Passengers**
 
+| Column Name      | Data Type      | Constraints        |
+|------------------|----------------|--------------------|
+| PassengerID      | VARCHAR(20)    | Primary Key        |
+| FullName         | VARCHAR(100)   |                    |
+| PassportNumber   | VARCHAR(20)    | Unique             |
+| Nationality      | VARCHAR(50)    |                    |
+| DOB              | DATE           |                    |
 
-PassportNumber (VARCHAR(20), UNIQUE)
+---
 
+### 2. **Flights**
 
-Nationality (VARCHAR(50))
+| Column Name      | Data Type      | Constraints        |
+|------------------|----------------|--------------------|
+| FlightID         | VARCHAR(20)    | Primary Key        |
+| FlightNumber     | VARCHAR(20)    | Unique             |
+| Origin           | VARCHAR(100)   |                    |
+| Destination      | VARCHAR(100)   |                    |
+| DurationMinutes  | INT            |                    |
 
+---
 
-DOB (DATE)
+### 3. **Aircrafts**
 
+| Column Name      | Data Type      | Constraints        |
+|------------------|----------------|--------------------|
+| AircraftID       | VARCHAR(20)    | Primary Key        |
+| Model            | VARCHAR(100)   |                    |
+| Capacity         | INT            |                    |
+| Manufacturer     | VARCHAR(100)   |                    |
 
-Flights
+---
 
+### 4. **FlightSchedules**
 
-FlightID (VARCHAR(20), Primary Key)
+| Column Name         | Data Type      | Constraints        |
+|---------------------|----------------|--------------------|
+| ScheduleID          | VARCHAR(20)    | Primary Key        |
+| FlightID            | VARCHAR(20)    | Foreign Key        |
+| AircraftID          | VARCHAR(20)    | Foreign Key        |
+| DepartureDateTime   | DATETIME       |                    |
+| ArrivalDateTime     | DATETIME       |                    |
 
+---
 
-FlightNumber (VARCHAR(20), UNIQUE)
+### 5. **Reservations**
 
+| Column Name      | Data Type      | Constraints        |
+|------------------|----------------|--------------------|
+| ReservationID    | VARCHAR(20)    | Primary Key        |
+| PassengerID      | VARCHAR(20)    | Foreign Key        |
+| ScheduleID       | VARCHAR(20)    | Foreign Key        |
+| SeatNumber       | VARCHAR(10)    |                    |
+| BookingDate      | DATE           |                    |
+| Class            | VARCHAR(20)    | Values: Economy / Business / First |
 
-Origin (VARCHAR(100))
+---
 
+### 6. **Payments**
 
-Destination (VARCHAR(100))
+| Column Name      | Data Type      | Constraints        |
+|------------------|----------------|--------------------|
+| PaymentID        | VARCHAR(20)    | Primary Key        |
+| ReservationID    | VARCHAR(20)    | Foreign Key        |
+| AmountPaid       | DECIMAL(10,2)  |                    |
+| PaymentMode      | VARCHAR(50)    | e.g., Credit Card, UPI, Cash |
+| PaymentDate      | DATETIME       |                    |
 
+---
 
-DurationMinutes (INT)
+## 🔁 Relationships
 
+- A **Passenger** can make multiple **Reservations**.
+- Each **Reservation** is linked to a **FlightSchedule**.
+- Each **FlightSchedule** is assigned to a **Flight** and an **Aircraft**.
+- Each **Reservation** has one corresponding **TicketPayment**.
 
-Aircrafts
-
-
-AircraftID (VARCHAR(20), Primary Key)
-
-
-Model (VARCHAR(100))
-
-
-Capacity (INT)
-
-
-Manufacturer (VARCHAR(100))
-
-
-FlightSchedules
-
-
-ScheduleID (VARCHAR(20), Primary Key)
-
-
-FlightID (VARCHAR(20))
-
-
-AircraftID (VARCHAR(20))
-
-
-DepartureDateTime (DATETIME)
-
-
-ArrivalDateTime (DATETIME)
-
-
-Reservations
-
-
-ReservationID (VARCHAR(20), Primary Key)
-
-
-PassengerID (VARCHAR(20))
-
-
-ScheduleID (VARCHAR(20))
-
-
-SeatNumber (VARCHAR(10))
-
-
-BookingDate (DATE)
-
-
-Class (VARCHAR(20)) — Economy / Business
-
-
-TicketPayments
-
-
-PaymentID (VARCHAR(20), Primary Key)
-
-
-ReservationID (VARCHAR(20))
-
-
-AmountPaid (DECIMAL(10,2))
-
-
-PaymentMode (VARCHAR(50))
-
-
-PaymentDate (DATETIME)
+---
