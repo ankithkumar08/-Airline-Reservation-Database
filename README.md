@@ -13,7 +13,6 @@ This project simulates a simplified **Airline Reservation System** using a relat
 | PassengerID      | VARCHAR(20)    | Primary Key        |
 | FullName         | VARCHAR(100)   |                    |
 | PassportNumber   | VARCHAR(20)    | Unique             |
-| Nationality      | VARCHAR(50)    |                    |
 | DOB              | DATE           |                    |
 
 ---
