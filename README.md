@@ -325,12 +325,17 @@ WHERE table_schema = 'airlines'
 
 ---
 
+## 👨‍💻 Author
+
+**Ankithkumar Chillapalli**  
+B.Tech in CSE (AI & ML) | Aspiring Data Analyst | Passionate about SQL and Data Analytics
+
+
+
 ## Connect with Me 🤝
 Find out more about my journey and connect with me on [LinkedIn](https://www.linkedin.com/in/ankithkumar08-data-analyst).
 
 ---
 
 ## Thank you for checking out my repository! Let’s code together! 💻
-
-**Ankithkumar Chillapalli**  
 
