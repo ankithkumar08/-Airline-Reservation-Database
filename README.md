@@ -115,18 +115,18 @@ SELECT * FROM reserve;
 ```sql
 -- 1. List all flights
 SELECT * FROM flights;
-
+---
 -- 2. Passengers who booked a seat
 SELECT DISTINCT * 
 FROM passengers 
 JOIN reserve ON passengers.PassengerID = reserve.PassengerID;
-
+---
 -- 3. All aircrafts
 SELECT * FROM aircrafts;
-
+---
 -- 4. Payment details for each reservation
 SELECT * FROM payments;
-
+---
 -- 5. Reservations with passenger name and flight number
 SELECT r.ReservationID, p.FullName, f.FlightNumber
 FROM reservations r
