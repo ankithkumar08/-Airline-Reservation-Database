@@ -1,0 +1,301 @@
+FlightID,FlightNumber,Origin,Destination,DurationMinutes
+FLT001,AI091,Carpenterfurt,East Matthewton,339
+FLT002,AI763,Rosechester,New Monicaport,653
+FLT003,AI938,Sandraton,Vanessashire,590
+FLT004,AI468,East Donaldhaven,Cynthiastad,479
+FLT005,AI923,Port Ethan,East Gregory,600
+FLT006,AI831,Port Paulberg,South Lucasview,572
+FLT007,AI020,Lake Kevinland,Courtneyburgh,487
+FLT008,AI914,Alexshire,Michaelburgh,379
+FLT009,AI808,New Thomasview,Sandersborough,442
+FLT010,AI684,Jenniferberg,North Alyssatown,565
+FLT011,AI957,Corymouth,Gayberg,567
+FLT012,AI705,Rodriguezshire,North Tammy,254
+FLT013,AI563,West Brittany,Rodneyburgh,665
+FLT014,AI745,Shanestad,West Adam,301
+FLT015,AI697,Trevinochester,Oliverhaven,376
+FLT016,AI689,Nicholasport,Port Stephanieland,720
+FLT017,AI133,Louiston,Darlenestad,301
+FLT018,AI762,Johnbury,Mooreborough,461
+FLT019,AI941,Barnetthaven,East Alanhaven,328
+FLT020,AI354,New Curtis,Lindseyshire,241
+FLT021,AI530,Walkerhaven,West Johnborough,563
+FLT022,AI710,Smithtown,Kellyhaven,596
+FLT023,AI699,Johnsonmouth,Ernestmouth,243
+FLT024,AI983,New Daniel,Bryantshire,71
+FLT025,AI587,Troyborough,South Christinaland,272
+FLT026,AI510,Nicholasfurt,Andersonton,161
+FLT027,AI980,Whiteburgh,West Ryanburgh,269
+FLT028,AI173,Jacquelineside,Port Ryanhaven,480
+FLT029,AI892,New Michelleland,Port Sally,474
+FLT030,AI240,Brownfort,New Johnport,496
+FLT031,AI586,Bauermouth,Williamsburgh,376
+FLT032,AI399,Seanberg,North Michaelborough,660
+FLT033,AI985,Nancytown,Amandaland,383
+FLT034,AI683,Turnerhaven,North Adamshire,261
+FLT035,AI391,Scottland,Khantown,141
+FLT036,AI332,Joneshaven,New Dannyfort,334
+FLT037,AI482,North Adammouth,West Jesse,491
+FLT038,AI801,Howellfort,West Julieville,175
+FLT039,AI829,Jacksonfurt,New Philip,605
+FLT040,AI759,Coffeyland,Trevorberg,597
+FLT041,AI987,Josephshire,Smithton,439
+FLT042,AI935,Zunigaside,Thomasville,593
+FLT043,AI293,Watsonside,Ericaburgh,600
+FLT044,AI035,West Jenniferchester,West Katherinemouth,482
+FLT045,AI359,East Laurenstad,Brandibury,150
+FLT046,AI757,West Markside,Samuelport,260
+FLT047,AI543,Lake Manuelmouth,Michaelmouth,139
+FLT048,AI848,Lake Rachelfort,Vanessaton,181
+FLT049,AI826,Taylorstad,New Ashleymouth,423
+FLT050,AI802,Franciscohaven,Stephenview,349
+FLT051,AI731,New Stephanieland,Manuelburgh,138
+FLT052,AI629,Boothshire,New Robertborough,527
+FLT053,AI969,New Robertshire,Jasonmouth,190
+FLT054,AI979,Kellyport,South Mitchellmouth,195
+FLT055,AI455,North Dianashire,East Michelle,558
+FLT056,AI738,New Tara,Morrisbury,150
+FLT057,AI082,Smithtown,New Juan,421
+FLT058,AI531,Christensenport,Peckborough,688
+FLT059,AI611,North Mike,Annamouth,287
+FLT060,AI999,Robinsonborough,Keithmouth,217
+FLT061,AI538,Thompsonfort,Port Audrey,505
+FLT062,AI400,Stewartfurt,Hoodbury,662
+FLT063,AI120,Steeleberg,East Lonnie,672
+FLT064,AI927,East Alice,South Cherylside,551
+FLT065,AI410,New Ronaldhaven,New Aliceside,276
+FLT066,AI945,West Latoyabury,West Kyleburgh,589
+FLT067,AI473,New Richard,Michaelberg,402
+FLT068,AI713,South Kimberly,Murphyport,74
+FLT069,AI526,West Caitlinburgh,Romanbury,351
+FLT070,AI555,East Frederickfurt,Davidport,469
+FLT071,AI065,East Debra,Woodwardland,281
+FLT072,AI992,East Justinview,Randallfurt,340
+FLT073,AI451,Brownland,South Annetteville,592
+FLT074,AI928,Richardfort,New Lauramouth,303
+FLT075,AI346,West Jessicafort,Theresachester,280
+FLT076,AI746,Floresview,Allenfort,360
+FLT077,AI456,West Maryview,West Lindastad,75
+FLT078,AI248,Hillton,New Miguel,436
+FLT079,AI378,Edwardburgh,Connorberg,605
+FLT080,AI013,Angelachester,Veronicastad,409
+FLT081,AI735,Smithmouth,Andreaport,319
+FLT082,AI151,East Emilyborough,Jamesfurt,583
+FLT083,AI702,Deniseport,Carrollville,338
+FLT084,AI918,Caseview,Parksville,503
+FLT085,AI131,West Kylie,Lake Steven,108
+FLT086,AI825,Jaredside,South Heather,152
+FLT087,AI047,North Matthewport,Port Douglas,132
+FLT088,AI998,Martinezhaven,West Garybury,530
+FLT089,AI193,Ryanhaven,Harrismouth,238
+FLT090,AI135,Watsonview,Sallybury,432
+FLT091,AI798,Lake Taylorfurt,Chapmanton,687
+FLT092,AI693,Blackburnchester,Walkershire,320
+FLT093,AI816,East Molly,Lake Catherinechester,310
+FLT094,AI982,North Nathan,Brookeshire,624
+FLT095,AI138,Odomside,Justinland,95
+FLT096,AI525,North Shaneside,Whiteborough,388
+FLT097,AI813,Barryville,Fernandezside,620
+FLT098,AI278,Port Christopherfurt,Burchview,290
+FLT099,AI590,Petersenstad,Earlhaven,418
+FLT100,AI660,Durhammouth,Deborahtown,597
+FLT101,AI599,Bradburgh,Smithmouth,338
+FLT102,AI593,New Jessicaland,Thompsonmouth,593
+FLT103,AI700,New Briantown,New Richardport,213
+FLT104,AI334,Alvarezborough,Port Robin,423
+FLT105,AI933,East Vanessachester,Moorehaven,279
+FLT106,AI294,West Terri,South Victoria,402
+FLT107,AI858,North Chelsea,Georgemouth,453
+FLT108,AI791,North Frank,Benderhaven,459
+FLT109,AI512,Penaside,East Joseland,627
+FLT110,AI807,North Kimberly,Port Karenhaven,162
+FLT111,AI444,North Johnfort,North Cynthia,70
+FLT112,AI284,Hodgesland,New Daniellemouth,632
+FLT113,AI618,Port Erikafurt,East Nicolechester,111
+FLT114,AI641,Lake Jamieport,Shannonstad,417
+FLT115,AI176,West Jennifer,Charleschester,449
+FLT116,AI768,North Leslie,Briantown,320
+FLT117,AI624,South Christinaberg,Stevenmouth,630
+FLT118,AI963,Lake Philipberg,Jillstad,73
+FLT119,AI164,Mossburgh,Wilsontown,716
+FLT120,AI365,Port Jason,Lake Victorborough,492
+FLT121,AI583,Jenniferville,Amberstad,161
+FLT122,AI180,Brianburgh,South Alexisstad,153
+FLT123,AI145,Kimberlyshire,North Tracey,370
+FLT124,AI616,North Alexander,New Steven,129
+FLT125,AI565,Lake Josephmouth,Pattersonshire,193
+FLT126,AI329,West Paul,East Stephanie,424
+FLT127,AI799,Gillside,Mckenziestad,221
+FLT128,AI016,Samanthaville,East Christinachester,92
+FLT129,AI002,Michaelachester,East Lawrence,114
+FLT130,AI553,Jacksontown,Shortfurt,149
+FLT131,AI437,Aaronville,West Latoyaberg,130
+FLT132,AI197,Shannonfort,Youngshire,393
+FLT133,AI128,North Victor,North Tylerhaven,340
+FLT134,AI666,Port Jessica,Williamsside,128
+FLT135,AI407,North Angela,Port Marymouth,665
+FLT136,AI879,East Christina,Port Anthony,111
+FLT137,AI610,Petersmouth,South Michaelbury,378
+FLT138,AI014,Port Shannon,Ashleyview,271
+FLT139,AI589,West Dianeville,West Ethan,241
+FLT140,AI228,Lake Susan,West Gina,526
+FLT141,AI585,New Margaretside,Martinezborough,469
+FLT142,AI204,Lynnton,East Leonard,466
+FLT143,AI383,East Gloria,North Patrickshire,88
+FLT144,AI869,North Katrina,Port Normanstad,491
+FLT145,AI386,Johnchester,Dillonfurt,176
+FLT146,AI420,New Donaldbury,Ivanmouth,587
+FLT147,AI908,Sarahmouth,New Kelly,532
+FLT148,AI827,North Dawnton,West Garymouth,459
+FLT149,AI558,Port Danielfort,Lake John,497
+FLT150,AI387,North Johnny,North Susanville,610
+FLT151,AI514,Manuelview,Rodriguezmouth,153
+FLT152,AI298,West Johnstad,Coreyborough,370
+FLT153,AI967,Taylorchester,Lake Aprilmouth,326
+FLT154,AI682,West Jenniferberg,Martinfurt,218
+FLT155,AI668,Anthonyport,Toddtown,258
+FLT156,AI630,Irwinberg,Madisonmouth,687
+FLT157,AI636,Lake Kyle,Dawsonburgh,691
+FLT158,AI691,Rubenbury,East Olivia,302
+FLT159,AI310,Lloydchester,Stanleyport,439
+FLT160,AI322,Rossberg,East Dwaynetown,65
+FLT161,AI450,Lake Jennifer,West Kristenfurt,439
+FLT162,AI615,Phillipsshire,West Davidport,607
+FLT163,AI940,New Adamview,Edwinton,207
+FLT164,AI639,Lake Lindsey,Chelseaton,112
+FLT165,AI887,North Dorothy,Lawsonhaven,362
+FLT166,AI592,Smithtown,Maciasstad,351
+FLT167,AI056,New Rachael,East Jamesberg,355
+FLT168,AI557,Port Ninaborough,Leeport,170
+FLT169,AI788,Lake Markstad,Shannonburgh,144
+FLT170,AI078,Port Timothy,Mendezberg,320
+FLT171,AI347,Deborahbury,Alyssaberg,449
+FLT172,AI080,Kathrynview,Lake Robert,639
+FLT173,AI841,Nicholasville,Jasminhaven,543
+FLT174,AI186,Seanberg,Lake Anthony,122
+FLT175,AI070,West Victoria,East Andrewfurt,195
+FLT176,AI787,Hoganside,Johnmouth,123
+FLT177,AI123,Sonyahaven,Schmidtton,534
+FLT178,AI042,Hicksport,North Leslieberg,264
+FLT179,AI853,Harperstad,Clarkside,674
+FLT180,AI199,Pattersonland,Lake Elizabethborough,397
+FLT181,AI398,South Bethchester,Zavalastad,676
+FLT182,AI540,Johntown,Stephenfort,553
+FLT183,AI577,Paynetown,South Lori,69
+FLT184,AI931,Port Lori,South Hannah,150
+FLT185,AI053,Stevensshire,Peterport,479
+FLT186,AI739,Bradleychester,New Breanna,389
+FLT187,AI238,Jefferytown,Luistown,299
+FLT188,AI910,Port Jonathan,Milesville,653
+FLT189,AI038,Michaelbury,Dixonberg,700
+FLT190,AI111,Lake Jason,Margaretland,326
+FLT191,AI528,Lake Carrie,Brianmouth,111
+FLT192,AI856,Petersburgh,Loritown,675
+FLT193,AI758,Karlafurt,West Erica,334
+FLT194,AI181,Robinsonburgh,Lake Cameronburgh,405
+FLT195,AI022,Mackhaven,Mariafurt,488
+FLT196,AI192,Huynhhaven,Ramireztown,129
+FLT197,AI045,West Johnside,New Jessica,293
+FLT198,AI385,New Justinville,Englishmouth,628
+FLT199,AI269,Christopherchester,South Breanna,307
+FLT200,AI299,Yolandamouth,East Mark,298
+FLT201,AI654,East Christopherfort,South Linda,410
+FLT202,AI939,West Wesleyburgh,East Williammouth,194
+FLT203,AI162,North Jessica,Port Cassandra,352
+FLT204,AI574,Chavezmouth,New Jose,566
+FLT205,AI944,Elizabethfort,Richardshire,569
+FLT206,AI855,New Chelsea,Nicholasstad,455
+FLT207,AI273,Sotoside,New Nathanhaven,481
+FLT208,AI474,Marioland,Andersonville,599
+FLT209,AI828,West Sarah,East Jeromehaven,716
+FLT210,AI680,New Jeffrey,Caseview,268
+FLT211,AI956,Ryanfort,North Michelleberg,579
+FLT212,AI948,Stevenburgh,Port Loriberg,445
+FLT213,AI772,Brandonchester,Gordonchester,643
+FLT214,AI534,East Michelleville,Lake Joseph,511
+FLT215,AI272,Monteshaven,New Bridget,268
+FLT216,AI633,Jonesmouth,New Jason,630
+FLT217,AI305,Port Heather,Justinbury,426
+FLT218,AI177,Williamstown,Sharpberg,219
+FLT219,AI638,Port Tricia,Tamiton,628
+FLT220,AI432,East Lisamouth,North Bradleyberg,299
+FLT221,AI333,Angelaview,Kariland,445
+FLT222,AI912,East Kelly,East Tylerland,474
+FLT223,AI864,Ericshire,Tylerbury,465
+FLT224,AI494,Brownchester,Wilsontown,693
+FLT225,AI312,North Brandon,Aprilport,472
+FLT226,AI496,Silvafurt,Port Nichole,179
+FLT227,AI295,Robertbury,Chaseview,99
+FLT228,AI602,Jacksonmouth,Gregorybury,539
+FLT229,AI327,East Theresa,Port Jillhaven,563
+FLT230,AI675,New Travis,Angelachester,198
+FLT231,AI694,Kevinport,West Dean,529
+FLT232,AI479,East Tina,North Stanleyland,272
+FLT233,AI550,Tuckermouth,Chadberg,114
+FLT234,AI018,Amyview,North Natalieview,579
+FLT235,AI124,Cookhaven,West Megan,155
+FLT236,AI453,Davidside,Gregoryborough,113
+FLT237,AI241,East Robertton,Lake Kristenfurt,686
+FLT238,AI185,South Jameshaven,East Troyland,322
+FLT239,AI163,North Andrew,Milesmouth,694
+FLT240,AI505,East Marytown,Port Lisa,471
+FLT241,AI627,Emilymouth,East Julie,127
+FLT242,AI220,Olsonland,Port Erin,405
+FLT243,AI546,Smithberg,South Lesliefurt,143
+FLT244,AI519,Cassandraside,Crawfordton,277
+FLT245,AI986,Port Suzanneland,Port Jillianfurt,153
+FLT246,AI524,Lake Wendy,Michelletown,642
+FLT247,AI127,Dixonmouth,Lake Eddiechester,542
+FLT248,AI004,Elizabethberg,West Jeffreyfurt,677
+FLT249,AI591,Ashleymouth,North Mark,168
+FLT250,AI741,Port Patrickside,Port Evelynchester,256
+FLT251,AI548,New Thomasstad,Joannmouth,249
+FLT252,AI396,Port Timothy,Baileyfort,678
+FLT253,AI170,North Aaron,Butlerton,469
+FLT254,AI905,North Michelletown,Reneeview,101
+FLT255,AI529,Kevinbury,North Sarahberg,317
+FLT256,AI095,West Amandaburgh,West Kristen,479
+FLT257,AI750,Emilyside,Port Samanthahaven,406
+FLT258,AI676,Anthonyport,Lake Sarahport,433
+FLT259,AI119,Christopherville,Schaeferberg,380
+FLT260,AI635,Sanchezville,Shawside,122
+FLT261,AI664,Murphyfort,Perrytown,698
+FLT262,AI005,Barretthaven,East Rodney,514
+FLT263,AI190,North Dianafort,New William,657
+FLT264,AI301,East Jonathan,Michaelmouth,510
+FLT265,AI492,Jenningsstad,West Jonathon,619
+FLT266,AI613,Roweville,East Jodi,697
+FLT267,AI092,Lake Sheenamouth,East Kevinhaven,288
+FLT268,AI414,Fredton,Port Blakeborough,276
+FLT269,AI212,Randallfort,Kelleyville,181
+FLT270,AI019,North Christine,East David,542
+FLT271,AI139,East Adrienneside,New Theodorebury,317
+FLT272,AI958,West Jeremy,Haneybury,384
+FLT273,AI493,Wilkinsonton,South Candicechester,308
+FLT274,AI271,Shannonmouth,West Cathymouth,683
+FLT275,AI598,East Kevin,Richardside,188
+FLT276,AI883,West Curtishaven,New Aaronhaven,552
+FLT277,AI736,Allisonburgh,Timothystad,194
+FLT278,AI485,Taylorville,Lake Melinda,456
+FLT279,AI642,Beardbury,Donnaview,326
+FLT280,AI579,Johnberg,East Lisa,199
+FLT281,AI435,Hendricksville,New Tina,290
+FLT282,AI253,South Johnathanside,Connieshire,705
+FLT283,AI452,East Virginia,Williamsberg,625
+FLT284,AI372,Lake Louis,New Jennifermouth,521
+FLT285,AI681,Alexanderland,Port Sydney,369
+FLT286,AI817,Katrinahaven,Lake Kevin,134
+FLT287,AI495,New Josephhaven,Patriciaberg,326
+FLT288,AI030,Curtisstad,Port Tylerbury,580
+FLT289,AI196,South Robinchester,East Melanieton,624
+FLT290,AI609,Karenland,Bankston,116
+FLT291,AI239,East Hollymouth,Greerfurt,428
+FLT292,AI508,Patriciaburgh,East Susanborough,362
+FLT293,AI707,New Rebeccaton,Amandaside,671
+FLT294,AI261,Englishhaven,Johnberg,88
+FLT295,AI766,North James,West Hollyborough,119
+FLT296,AI861,Port Jessicaview,Montgomeryland,254
+FLT297,AI302,New Douglas,Carolynport,507
+FLT298,AI109,Mendozaville,Kristineville,153
+FLT299,AI671,Garciahaven,Jefferychester,72
+FLT300,AI125,East Victoria,West Frederick,484
