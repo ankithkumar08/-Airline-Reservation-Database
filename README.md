@@ -325,8 +325,12 @@ WHERE table_schema = 'airlines'
 
 ---
 
-## 📬 Contact
+## Connect with Me 🤝
+Find out more about my journey and connect with me on [LinkedIn](https://www.linkedin.com/in/ankithkumar08-data-analyst).
+
+---
+
+## Thank you for checking out my repository! Let’s code together! 💻
 
 **Ankithkumar Chillapalli**  
-📫 [[Your LinkedIn or Email](https://github.com/ankithkumar08/-Airline-Reservation-Database.git)]  
-📁 [GitHub Repository Link]
+
