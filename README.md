@@ -158,7 +158,9 @@ JOIN flightschedules fs ON r.ScheduleID = fs.ScheduleID;
 SELECT r.ReservationID, r.SeatNumber, r.CLASS, p.PaymentID, p.AmountPaid 
 FROM reserve r
 JOIN payments p ON r.ReservationID = p.ReservationID;
-
+```
+---
+```sql
 -- 8. Flight schedules with aircraft model
 SELECT DISTINCT fs.AircraftID, fs.DepartureDateTime, fs.ArrivalDateTime, a.MODEL 
 FROM flightschedules fs
@@ -247,7 +249,9 @@ LIMIT 5;
 SELECT * 
 FROM reservations
 WHERE BookingDate >= CURDATE() - INTERVAL 30 DAY;
-
+```
+---
+```sql
 -- 18. Today’s departures
 SELECT * 
 FROM flightschedules
